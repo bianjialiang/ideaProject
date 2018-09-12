@@ -12,5 +12,6 @@
 </head>
 <body>
 <h1>这是我的第一个idea页面</h1>
+<h1>这是我的第一个idea页面</h1>
 </body>
 </html>

@@ -20,7 +20,7 @@ public class Test {
         account1.setBalance(4);
         accounts.add(account);
         accounts.add(account1);
-        System.out.println(account);
+        System.out.println("我是一个小小鸟");
         for (int i = 0; i < accounts.size(); i++) {
             System.out.println(accounts.get(i));
         }

@@ -20,6 +20,7 @@ public class Test {
         account1.setBalance(4);
         accounts.add(account);
         accounts.add(account1);
+        System.out.println(account);
         for (int i = 0; i < accounts.size(); i++) {
             System.out.println(accounts.get(i));
         }

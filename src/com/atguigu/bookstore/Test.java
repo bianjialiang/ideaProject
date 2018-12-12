@@ -24,5 +24,6 @@ public class Test {
         for (int i = 0; i < accounts.size(); i++) {
             System.out.println(accounts.get(i));
         }
+System.out.println("我是一个小小鸟2");
     }
 }
